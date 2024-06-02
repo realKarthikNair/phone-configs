@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UI>
+
+<!--  ##### MAIN SETTINGS #### -->
+<username value="realkarthiknair"/>
+
+<device_name value="Realme G85 Series"/>
+
+<show_enter_button value="true"/>
+<!-- Hide/show the enter button -->
+
+<system_font value="false"/>
+<!-- If false, the default t-ui font ("Lucida Console") will be used for all texts -->
+
+<system_wallpaper value="true"/>
+<!-- If true, your system wallpaper will be used as background -->
+
+<fullscreen value="false"/>
+<!-- If true, t-ui will run in fullscreen mode -->
+
+<input_bottom value="true"/>
+<!--  If false, the input field will be placed on top of the screen -->
+
+<input_prefix value=""/>
+<input_root_prefix value="#"/>
+<!-- ############################  -->
+
+<!-- ##### SHOW/HIDE STATUS BAR ITEMS (and more) ##### -->
+<show_app_installed value="true"/>
+<show_app_uninstalled value="true"/>
+
+<show_time value="true"/>
+<show_device_name value="true"/>
+<show_battery value="true"/>
+<show_storage_info value="true"/>
+<show_ram value="true"/>
+<show_network_info value="true"/>
+<show_weather value="false"/>
+<show_notes value="true"/>
+
+<show_unlock_counter value="true"/>
+<show_scroll_notes_message value="true"/>
+<!-- If true, you will get a message when your notes reach the value set in notes_max_lines -->
+
+<show_restart_message value="true"/>
+<!-- If false, the restart message won't be shown -->
+
+<show_session_info value="true"/>
+<!-- If true, when your input field is empty there will be a short line containing some information about the current session -->
+<!-- ############################  -->
+
+<!-- ##### STATUS BAR ITEMS SIZE ##### -->
+<time_size value="32"/>
+<device_size value="14"/>
+<battery_size value="14"/>
+<storage_size value="14"/>
+<ram_size value="14"/>
+<network_size value="15"/>
+<weather_size value="26"/>
+<notes_size value="13"/>
+<unlock_size value="14"/>
+<input_output_size value="14"/>
+<!-- ############################  -->
+
+<!-- ##### STATUS BAR ITEMS INDEX ##### -->
+<time_index value="4.0"/>
+<device_index value="1.1"/>
+<battery_index value="1.2"/>
+<storage_index value="2.0"/>
+<ram_index value="2.1"/>
+<network_index value="1.0"/>
+<weather_index value="5"/>
+<notes_index value="8"/>
+<unlock_index value="9"/>
+ <!-- ############################  -->
+
+<!-- ###  NOTES SETTINGS ###  -->
+<notes_divider value="%n"/>
+<notes_header value="%( ---- Notes : %c ----%n/No notes)"/>
+<notes_footer value="%(%n - --- ----- --- -/)"/>
+<notes_max_lines value="10"/>
+<!-- ############################  -->
+
+<!-- ###  SHADOWS AND MORE ###  -->
+<bgrect_params value="10,5"/>
+<!-- [Stroke width],[Rect corner radius] -->
+
+<shadow_params value="2,2,0.2"/>
+<!-- [Shadow X offset],[Shadow Y offset],[Shadow radius] -->
+ 	
+<text_redraw_times value="1"/>
+<!-- A greater value will result in a bigger outline -->
+
+<statusbar_light_icons value="true"/>
+ <!-- If true, your status bar icons will be white. Dark otherwise  -->
+
+<ignore_bar_color value="false"/>
+ <!-- If true, statusbar_color and navigationbar_color will be ignored -->
+
+<enable_battery_status value="true"/>
+<!-- If true, battery color will change when your battery level reach different percentages battery_color high, battery_color_medium, battery_color_low. If false, only battery_color_high is used -->
+<!-- ############################  -->
+
+ 
+<!-- ###  MARGINS and ALIGNMENT ###  -->
+<display_margin_mm value="0,0,0,0"/>
+<!-- [left margin],[top margin],[right margin],[bottom margin] -->
+
+<status_lines_margins value="3,0,0,10"/>
+<output_field_margins value="3,3,0,0"/>
+<input_field_margins value="3,3,0,0"/>
+<input_area_margins value="3,3,30,0"/>
+<toolbar_margins value="3,4,0,10"/>
+<suggestions_area_margin value="3,0,0,0"/>
+<!-- [External horizontal margin],[E. vertical margin],[Internal horizontal margin],[I. vertical margin] -->
+
+<status_lines_alignment value="0,0,0,0,0,0"/>
+<!-- The alignment of the nth status line (<0 = left, =0 = center, >
+0 = right)  -->
+
+<deviceName value="moon"/>
+</UI>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ddc_file">DDC/FrontRearContrast.vdc</string>
+    <boolean name="ddc_enable" value="false" />
+</map>

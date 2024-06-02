@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPS>
+<!-- ### default-suggested apps ### -->
+<default_app_n1 value="com.android.contacts-com.android.contacts.activities.TwelveKeyDialer"/>
+<default_app_n2 value="com.android.vending"/>
+<default_app_n3 value="null"/>
+<default_app_n4 value="null"/>
+<default_app_n5 value="null"/>
+
+<app_groups_sorting value="2"/>
+<!-- 0 = time up->down; 1 = time down->up; 2 = alphabetical up->down; 3 = alphabetical down->up; 4 = most used up->down; 5 = most used down->up -->
+
+
+<TOOLS apps="com.feravolt.preload-com.feravolt.preload.MainActivity;com.feravolt.fdeai-com.feravolt.fdeai.activities.MainActivity"/>
+<SOCIAL apps=""/>
+<MIUI apps=""/>
+<GAMES apps="com.ea.game.pvz2_row-com.popcap.PvZ2.PvZ2GameActivity;com.pikpok.dr2.play-com.pikpok.PikPokUnityActivity;com.kiarygames.tinyroom-com.unity3d.player.UnityPlayerActivity"/>
+</APPS>

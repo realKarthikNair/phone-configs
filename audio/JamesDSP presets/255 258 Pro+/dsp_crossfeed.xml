@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="bs2b_crossfeed_mode">5</string>
+    <boolean name="bs2b_crossfeed_enable" value="true" />
+</map>

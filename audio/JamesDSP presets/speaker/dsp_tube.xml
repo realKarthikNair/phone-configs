@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="tube_drive" value="2.0" />
+    <boolean name="tube_enable" value="false" />
+</map>

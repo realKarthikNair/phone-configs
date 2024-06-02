@@ -1,0 +1,45 @@
+=com.android.dialer
+=com.google.android.apps.messaging
+=whatsapp 
+=com.google.android.apps.photos
+=org.codeaurora.snapcam
+=Spotify
+=com.android.settings
+=chrome
+=telegram
+=gmail
+=adguard
+=YouTube
+=play store
+=Twitter
+=Twitch
+icons=cat t-ui/icons.txt
+cerca=search -u https://www.google.com/search?q=%
+fl=flash
+cl=clear
+.ww=weward
+.tr=Ticket Restaurant
+busy=export PATH=/data/data/de.reckendrees.systems.tui.expert/busybox:$PATH
+.info=su -c sh /storage/emulated/0/t-ui/sealyj-status
+init=export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu
+init2=export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets
+temp_firenze=curl -s wttr.in/Florence?\%?0T
+temp_incisa=curl -s wttr.in/Incisa?\%?0T
+cpu_freq=cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq |cut -b 1-4
+cpu_temp=cat /sys/class/thermal/thermal_zone0/temp | cut -b 1-2
+/themes=cd /storage/emulated/0/t-ui/THEMES && curl -O https://github.com/M4dGun/t-ui_themes/raw/main/database/% && cd /storage/emulated/0/
+/themes_list=cat /storage/emulated/0/t-ui/THEMES/db
+tb1=config -set show_toolbar true
+tb0=config -set show_toolbar false
+todo=tuixt to-do.txt
+showtodo=cat to-do.txt
+data-enable=su -c "svc data enable"
+data-disable=su -c "svc data disable"
+/ui.xml=config -file ui.xml
+/notes0=config -set show_notes false
+/notes1=config -set show_notes true
+/fullscreen1=config -set fullscreen true
+/fullscreen0=config -set fullscreen falsettm -p=search -u https://github.com/M4dGun/t-ui_themes
+ttm =sh /sdcard/theme-manager.sh %
+ttm -p=search -u https://github.com/M4dGun/t-ui_themes
+ttm -preview=search -u https://github.com/M4dGun/t-ui_themes

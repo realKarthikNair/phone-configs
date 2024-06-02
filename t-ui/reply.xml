@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REPLY>
+<reply_enabled value="true"/>
+<com.whatsapp id="0"/>
+<org.telegram.messenger id="2"/>
+<com.google.android.youtube id="1"/>
+<com.twitter.android id="3"/>
+<com.instagram.android id="4"/>
+<tv.twitch.android.app id="5"/>
+</REPLY>
