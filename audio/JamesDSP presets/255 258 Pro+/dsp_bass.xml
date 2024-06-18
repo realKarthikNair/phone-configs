@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <boolean name="bass_enable" value="true" />
-    <float name="bass_max_gain" value="3.0" />
-</map>

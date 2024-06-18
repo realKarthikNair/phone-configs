@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <boolean name="compander_enable" value="false" />
-    <float name="compander_timeconstant" value="0.22" />
-    <string name="compander_tftransforms">0</string>
-</map>

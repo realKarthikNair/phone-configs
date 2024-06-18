@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="eq_filter_type">0</string>
-    <string name="eq_interpolation">0</string>
-    <boolean name="eq_enable" value="false" />
-</map>
