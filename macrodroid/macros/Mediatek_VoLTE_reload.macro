@@ -1,0 +1,51 @@
+{
+    "macro": {
+        "disabledTimestamp": 0,
+        "exportedActionBlocks": [],
+        "forceEvenIfNotEnabledTimestamp": 0,
+        "isActionBlock": false,
+        "isBeingImported": false,
+        "isClonedInstance": false,
+        "isExtra": false,
+        "isFavourite": false,
+        "lastEditedTimestamp": 1718691698925,
+        "localVariables": [],
+        "m_GUID": -6835934341635075969,
+        "m_actionList": [
+            {
+                "m_applicationNameList": [
+                    "com.mediatek.ims.ImsApp"
+                ],
+                "m_packageNameList": [
+                    "com.mediatek.ims"
+                ],
+                "option": 0,
+                "m_SIGUID": -4620910951242912621,
+                "m_classType": "CloseApplicationAction",
+                "m_constraintList": [],
+                "m_isDisabled": false,
+                "m_isOrCondition": false
+            }
+        ],
+        "m_category": "Uncategorized",
+        "m_constraintList": [],
+        "m_description": "Test",
+        "m_descriptionOpen": false,
+        "m_enabled": true,
+        "m_excludeLog": false,
+        "m_headingColor": 0,
+        "m_isOrCondition": false,
+        "m_name": "Fix VoLTE",
+        "m_triggerList": [
+            {
+                "m_airplaneModeEnabled": false,
+                "m_SIGUID": -5728292564066806300,
+                "m_classType": "AirplaneModeTrigger",
+                "m_constraintList": [],
+                "m_isDisabled": false,
+                "m_isOrCondition": false
+            }
+        ]
+    },
+    "macroExportVersion": 1
+}
