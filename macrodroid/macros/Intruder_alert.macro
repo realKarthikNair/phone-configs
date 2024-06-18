@@ -1,0 +1,95 @@
+{
+    "macro": {
+        "disabledTimestamp": 0,
+        "exportedActionBlocks": [],
+        "forceEvenIfNotEnabledTimestamp": 0,
+        "isActionBlock": false,
+        "isBeingImported": false,
+        "isClonedInstance": false,
+        "isExtra": false,
+        "isFavourite": false,
+        "lastEditedTimestamp": 1718697032736,
+        "localVariables": [
+            {
+                "dictionary": {
+                    "entries": [],
+                    "isArray": false,
+                    "variableType": 4,
+                    "type": "Dictionary"
+                },
+                "isActionBlockWorkingVar": false,
+                "isLocalVar": true,
+                "isSecure": true,
+                "m_booleanValue": false,
+                "m_decimalValue": 0.0,
+                "m_intValue": 0,
+                "m_name": "intruder-email-sent",
+                "m_stringValue": "",
+                "m_type": 0,
+                "supportsInput": false,
+                "supportsOutput": true
+            }
+        ],
+        "m_GUID": -7383849752607915010,
+        "m_actionList": [
+            {
+                "blockNextAction": false,
+                "m_attachLog": false,
+                "m_attachUserLog": false,
+                "m_body": "Someone tried to unlock your phone\n\nWhen? {system_time}\nWhere? {last_loc_latlong}\n\nsent via macrodroid",
+                "m_emailAddress": "youremail@somemail.com",
+                "m_fromEmailAddress": "",
+                "m_subject": "Intruder Detected!",
+                "sendOption": 0,
+                "useHtml": true,
+                "useHtmlForLogs": false,
+                "userLogChannelsList": [],
+                "variable": {
+                    "dictionary": {
+                        "entries": [],
+                        "isArray": false,
+                        "variableType": 4,
+                        "type": "Dictionary"
+                    },
+                    "isActionBlockWorkingVar": false,
+                    "isLocalVar": true,
+                    "isSecure": false,
+                    "m_booleanValue": false,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
+                    "m_name": "intruder-email-sent",
+                    "m_stringValue": "",
+                    "m_type": 0,
+                    "supportsInput": false,
+                    "supportsOutput": true
+                },
+                "m_SIGUID": -8626432783278132441,
+                "m_classType": "SendEmailAction",
+                "m_constraintList": [],
+                "m_isDisabled": false,
+                "m_isOrCondition": false
+            }
+        ],
+        "m_category": "Uncategorized",
+        "m_constraintList": [],
+        "m_description": "",
+        "m_descriptionOpen": false,
+        "m_enabled": true,
+        "m_excludeLog": false,
+        "m_headingColor": 0,
+        "m_isOrCondition": false,
+        "m_name": "Intruder alert",
+        "m_triggerList": [
+            {
+                "m_numFailures": 2,
+                "m_timeIndex": 0,
+                "m_SIGUID": -7974319211689133134,
+                "m_classType": "FailedLoginTrigger",
+                "m_constraintList": [],
+                "m_isDisabled": false,
+                "m_isOrCondition": false
+            }
+        ]
+    },
+    "macroExportVersion": 1
+}
