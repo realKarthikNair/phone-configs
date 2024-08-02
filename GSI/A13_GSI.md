@@ -21,9 +21,11 @@
 
 1. Visit [the community](/GSI/rmx_2193_community.md) for any troubleshooting and discussions, not me. I am merely cumulating information in one place for your convenience. If I am spammed for support, I will just take this guide down and refuse to maintain it further.
 
-2. No one owes you anything. If you are stuck, be patient and ask for help in the community. If they can't help, you are on your own.
+2. You can find community archives of some device related files [here](https://t.me/rmx3171important)
 
-3. These guides assume you have 
+3. No one owes you anything. If you are stuck, be patient and ask for help in the community. If they can't help, you are on your own.
+
+4. These guides assume you have 
 
 - A working brain, computer, internet connection, and a USB cable.
 - An SD card with at least 8 GB of space or a USB OTG drive. You could also get away with the internal storage, but it's a bit complicated based on what you're trying to do and if the storage is encrypted. Use common sense in case of internal storage.
@@ -154,9 +156,9 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
 ## Credits 
 
 - [Sarthak Roy](https://t.me/sarthakroy2002) for recoveries, kernels, trees and patches.
-- [ĶѦℛѦひﾚÏ ᏦÏᏁᏳ](https://t.me/Karauli01king) for GSI ROM builds (available in [the community](/GSI/rmx_2193_community.md)).
+- [ĶѦℛѦひﾚÏ ᏦÏᏁᏳ](https://t.me/Karauli01king) for making GSI ROM flashable via recovery (builds available in [the community](/GSI/rmx_2193_community.md)).
 - [L Lawliet](https://t.me/l_6174) for OFRP, SHRP and TWRP recoveries.
-- Testers : [https://t.me/CYBER6756, https://t.me/usernameadittya]
+- Testers : [https://t.me/CYBER6756, https://t.me/usernameadittya, https://t.me/rockstar_jp]
 - [phhusson](https://github.com/phhusson) and [TrebleDroid Team](https://github.com/TrebleDroid) for making Android GSIs possible on non-Pixel devices with ease. 
 - [ChonDoit](https://github.com/ChonDoit) for making A13 Pixel Experience Plus GSIs.
 - [The Magisk Project](https://github.com/topjohnwu/Magisk)
