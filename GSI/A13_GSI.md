@@ -7,7 +7,7 @@
 <ol>
 <li><a href="#part-0--precautionsrequirementsdisclaimers">Part 0 : Precautions/Requirements/Disclaimers</a></li>
 <li><a href="#part-1--installing-base-firmware-for-the-gsi">Part 1 : Installing Base Firmware for the GSI</a></li>
-<li><a href="#part-2--installing-the-gsi">Part 2 : Installing the GSI</a></li>
+<li><a href="#part-2--installing-the-gsi-commands-assume-youre-using-a13-pixel-experience-plus-change-accordingly-if-youre-using-a-different-gsi">Part 2 : Installing the GSI</a></li>
 <li><a href="#part-3--post-installation-fixes">Part 3 : Post Installation Fixes</a></li>
 <li><a href="#part-4--banking-apps">Part 4 : Banking Apps</a></li>
 <li><a href="#credits">Credits</a></li>
