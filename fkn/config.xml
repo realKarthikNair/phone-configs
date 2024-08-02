@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="cpu_temperature" value="false" />
+    <boolean name="perfmon_show_gpus" value="true" />
+    <string name="/sys/block/mmcblk1/queue/scheduler">noop</string>
+    <string name="perfmon_width_2">150</string>
+    <string name="/sys/block/zram0/disksize">4294967296</string>
+    <string name="boot_service_delay">0</string>
+    <string name="/sys/devices/system/cpu/cpu6/cpufreq/scaling_governor">ondemand</string>
+    <boolean name="perfmon_show_fps" value="true" />
+    <string name="theme">1</string>
+    <string name="startup_page">0</string>
+    <boolean name="perfmon_show_cpus" value="true" />
+    <boolean name="perfmon_show_cpus_freq" value="true" />
+    <string name="/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor">ondemand</string>
+    <string name="/sys/block/zram0/comp_algorithm">lzo [lz4] deflate</string>
+    <string name="perfmon_height_2">275</string>
+    <string name="/sys/block/zram0/initstate">1</string>
+    <boolean name="perfmon_show_cpus_load" value="true" />
+    <string name="/proc/sys/net/ipv4/tcp_congestion_control">cubic</string>
+    <string name="drawer_icon_gravity">1</string>
+    <int name="fku.perf.profile" value="1" />
+    <string name="perfmon_refresh_interval">1000</string>
+    <string name="/sys/block/mmcblk0/queue/scheduler">noop</string>
+    <string name="system_health_startup_page">1</string>
+    <boolean name="perfmon_show_ram" value="true" />
+    <int name="opacity" value="65" />
+    <boolean name="perfmon_show_only_clusters" value="false" />
+</map>
