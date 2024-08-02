@@ -61,7 +61,7 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
 
 1. Depending on your operating system, get a relevant tool to extract the xz file. You should have `PE-Plus_A13-RO-arm64-bgN-slim_20240629.img` file after extraction.
 2. Move the .img file to your platform-tools folder. 
-3. Download [vbmeta.img](/GSI/vbmeta.img) and [boot.img](/GSI/boot.img) move them to your platform-tools folder.
+3. Download [vbmeta.img](https://github.com/realKarthikNair/phone-configs/raw/master/GSI/vbmeta.img) and [boot.img](https://github.com/realKarthikNair/phone-configs/raw/master/GSI/boot.img) move them to your platform-tools folder.
 4. Open a command prompt or terminal in the platform-tools folder. Assuming your device is in bootloader mode from Part 1 of this guide, run the following commands : 
 
     ```bash
@@ -75,7 +75,7 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
     ```
 5. Once you're in recovery, 
 
-    1. Flash [this kernel](/GSI/neOlit+kernel.zip)
+    1. Flash [this kernel](https://github.com/realKarthikNair/phone-configs/raw/master/GSI/neOlit+kernel.zip)
     2. Don't reboot, but go back
     3. Format data
     4. Reboot to system
@@ -89,8 +89,8 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
 
 1. Once you're in the system, go to settings and enable developer options by tapping on the build number 7 times.
 2. Go to developer options and enable USB debugging.
-3. Download [magisk apk file](/GSI/magisk.apk) and move to your platform-tools folder.
-4. Download [magisk_patched.img](/GSI/magisk_patched.img) and move to your platform-tools folder.
+3. Download [magisk apk file](https://github.com/realKarthikNair/phone-configs/raw/master/GSI/magisk.apk) and move to your platform-tools folder.
+4. Download [magisk_patched.img](https://github.com/realKarthikNair/phone-configs/raw/master/GSI/magisk_patched.img) and move to your platform-tools folder.
 5. Open a command prompt or terminal in the platform-tools folder and run the following commands : 
 
     ```bash
@@ -162,6 +162,7 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
 - [phhusson](https://github.com/phhusson) and [TrebleDroid Team](https://github.com/TrebleDroid) for making Android GSIs possible on non-Pixel devices with ease. 
 - [ChonDoit](https://github.com/ChonDoit) for making A13 Pixel Experience Plus GSIs.
 - [The Magisk Project](https://github.com/topjohnwu/Magisk)
+- [chiteroman](https://github.com/chiteroman) for PlayIntegrityFix
 - Admins of [RMX2193/2191/3171 Community](/GSI/rmx_2193_community.md).
 - [Me](https://github.com/realKarthikNair) for writing this guide and finding fixes to some issues.
 - Anyone I missed, please let me know. 
