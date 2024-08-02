@@ -92,6 +92,7 @@
     <string name="gawb_user_rg_i_key_0">0.538163</string>
     <string name="gawb_user_rg_i_key_1">0.538163</string>
     <string name="pref_camera_selfie_mirror_key">1</string>
+    <string name="pref_camera_frames_b_photo">0</string>
     <string name="gawb_user_bg_m_key_0">0.686416</string>
     <string name="gawb_user_bg_m_key_1">0.686416</string>
     <string name="ShotNoiseFactorE_fmov_null_pthcr_key_0"></string>
@@ -112,7 +113,7 @@
     <string name="ses_120fps_id_key_3"></string>
     <long name="tooltip_latest_impression_timestamp_for_auto_timelapse_tooltip" value="1718689225859" />
     <string name="ses_120fps_id_key_0"></string>
-    <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="0" />
+    <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="2" />
     <boolean name="autotimer_tutorial_shown" value="true" />
     <string name="pref_chameleon_control_key">1</string>
     <string name="perf_has_shown_options_bar">1</string>
@@ -148,6 +149,7 @@
     <string name="reset_focus_key_0">0</string>
     <string name="gawb_user_bg_h_key_2"></string>
     <string name="gawb_user_bg_h_key_1">0.446765</string>
+    <string name="frame_count_b_photo_0">6</string>
     <string name="gawb_user_bg_h_key_0">0.446765</string>
     <string name="reset_focus_key_3">0</string>
     <string name="pref_camera_raw_output_option_available_key">1</string>
@@ -292,7 +294,7 @@
     <string name="pref_satCCT_R_1">1.0</string>
     <string name="expcomp_key_3">0</string>
     <boolean name="disable_cam_char_fix_keys" value="false" />
-    <string name="perf_has_run_education">1719120995669</string>
+    <string name="perf_has_run_education">1722703925358</string>
     <string name="gawb_user_rg_m_key_3"></string>
     <string name="gawb_user_rg_m_key_2"></string>
     <string name="pref_satCCT_B_0">1.0</string>
@@ -432,7 +434,7 @@
     <string name="gawb_user_bg_i_key_1">0.59211</string>
     <string name="gawb_user_bg_i_key_0">0.59211</string>
     <string name="pref_G_hue_3">0.0</string>
-    <string name="lUpTi">1718639834141</string>
+    <string name="lUpTi">1722271447026</string>
     <string name="gawb_user_bg_j_key_0">0.686416</string>
     <string name="gawb_user_bg_j_key_3"></string>
     <int name="tooltip_impression_count_for_iso_feature_bottom_sheet_edu" value="1" />
@@ -587,9 +589,9 @@
     <string name="c_c_i_quality_key_2">0</string>
     <string name="OverrideSharpenPolysharpAlphaA_a_4120_0000_pthcr_key_0">10.0</string>
     <int name="tooltip_impression_count_for_focus_feature_bottom_sheet_edu" value="1" />
-    <string name="pref_camera_dirty_lens_history_key0">-4.699376|-5.3924313|-0.6097474|-0.6722491|-3.962369|-6.843729|-4.08509|-5.269309|-3.6479838|-4.9037447|-1.8639885|-0.73797435|-0.068893746|-0.6130025|-0.066115215|-2.4813323|-0.0843572|2.3934479|-2.9448586|-5.3332086|-6.2793913|-4.7381124|-0.40179628|-6.342139|-4.688787|-3.5752728|-1.4706666|-3.7819614|-3.3425395|-5.583332|-2.3002372|-0.19269538|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-4.08509|-5.269309|-3.6479838|-4.9037447|-1.8639885|-0.73797435|-0.068893746|-0.6130025|-0.066115215|-2.4813323|-0.0843572|2.3934479|-2.9448586|-5.3332086|-6.2793913|-4.7381124|-0.40179628|-6.342139|-4.688787|-3.5752728|-1.4706666|-3.7819614|-3.3425395|-5.583332|-2.3002372|-0.19269538|-2.0636623|-0.7884322|-0.7674141|-6.941919|-3.1512568|-5.4926314|</string>
     <string name="pref_camera_dirty_lens_history_key1">-17.0|0.999449|2.4340959|2.542757|0.18082328|</string>
-    <string name="pref_camera_dirty_lens_history_key2">-17.0|-0.5153109|-1.0513917|</string>
+    <string name="pref_camera_dirty_lens_history_key2">-17.0|-0.5153109|-1.0513917|-1.0546075|</string>
     <string name="lens_wl_key"></string>
     <string name="pref_video_resolution">RES_1080P</string>
     <string name="gawb_user_bg_p_key_0">0.446765</string>
