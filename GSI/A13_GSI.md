@@ -98,11 +98,12 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
     adb reboot bootloader
     fastboot flash boot magisk_patched.img
     fastboot flash vbmeta --disable-verity --disable-verification vbmeta.img
-    fastboot reboot
+    fastboot reboot recovery
     ```
 
-6. Once you're in the system, open magisk and follow the instructions to install it and reboot.
-7. Once you're in the system, open magisk settings and 
+6. Now, repeat step 5 from Part 2.
+7. Once you're in the system, open magisk and follow the instructions to install it and reboot.
+8. Once you're in the system, open magisk settings and 
 
     1. Turn Off "check for updates"
     2. Turn on "Zygisk" and "Enforce Denylist"
@@ -115,9 +116,9 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
 
     5. Go back to magisk app home. 
 
-8. From bottom bar of magisk app, Go to modules and install modules in [modules folder](/GSI/modules) one by one. Dont reboot at all now (press cancel when it asks to reboot). I haven't made those modules, so for any concerns, visit [the community](/GSI/rmx_2193_community.md). **These modules fix Hotspot, Bluetooth, Safetynet and Play Integrity.**. Don't reboot yet (follow the next steps now).
+9. From bottom bar of magisk app, Go to modules and install modules in [modules folder](/GSI/modules) one by one. Dont reboot at all now (press cancel when it asks to reboot). I haven't made those modules, so for any concerns, visit [the community](/GSI/rmx_2193_community.md). **These modules fix Hotspot, Bluetooth, Safetynet and Play Integrity.**. Don't reboot yet (follow the next steps now).
 
-9. Go to phone settings > Phh Treble settings 
+10. Go to phone settings > Phh Treble settings 
     
 
     1. If you want Double tap to wake, go to Oppo features > Enable DT2W
@@ -141,9 +142,9 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
         3. Tap on "Install IMS APK for MediaTek R Vendor" and install the apk.
         4. toggle "Request IMS network" and "Force the presence of 4G Calling setting" ON.
 
-10. Go to settings > Apps > See all apps > top right corner > Show system apps > clear data and cache of Google Play Services, Google Play Store and Google Services Framework. Reboot now. 
+11. Go to settings > Apps > See all apps > top right corner > Show system apps > clear data and cache of Google Play Services, Google Play Store and Google Services Framework. Reboot now. 
 
-11. You should have a phone with everything working now. If you face any issues, visit [the community](/GSI/rmx_2193_community.md) for help.
+12. You should have a phone with everything working now. If you face any issues, visit [the community](/GSI/rmx_2193_community.md) for help.
 
 ## Part 4 : Banking apps 
 
