@@ -42,6 +42,8 @@
     2. Wi-Fi calling is broken and can't be fixed. (Wi-Fi calling doesn't mean VoIP calls like WhatsApp, it's a carrier feature that allows you to make calls over Wi-Fi when you have no cellular signal)
 
     3. System screen recorder is broken, use a third party app.
+    
+    4. Bluetooth headphones don't work on WhatsApp calls (it does work on WhatsApp media, offline calls, telegram calls etc just not on WhatsApp audio/video calls) even with NEARBY DEVICES permission given
 
 ## Part 1 : installing base firmware for the GSI
 
