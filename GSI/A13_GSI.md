@@ -123,8 +123,7 @@ This guide is tested with [A13 Pixel Experience Plus](https://github.com/ChonDoi
 
     1. If you want Double tap to wake, go to Oppo features > Enable DT2W
     2. To fix bluetooth
-        - Go to Misc features > AUDIO > Use System Wide BT HAL, and
-        - Go to Misc features > AUDIO > Bluetooth workarounds > Mediatek
+        - Go to Misc features > AUDIO > Use System Wide BT HAL
     3. To fix 3.5 mm audio jack
         - Go to Misc features > AUDIO > Use alternate way to detect headsets
     4. To fix status bar top-right padding
