@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <float name="limiter_release" value="60.0" />
-    <float name="output_postgain" value="9.0" />
-    <float name="limiter_threshold" value="-0.1" />
-</map>

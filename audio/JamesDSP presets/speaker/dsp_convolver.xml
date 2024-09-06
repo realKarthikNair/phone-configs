@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="convolver_mode">0</string>
-    <boolean name="convolver_enable" value="false" />
-    <string name="convolver_file">Convolver/SwapChannels.wav</string>
-    <string name="convolver_adv_imp">-80;-100;0;0;0;0</string>
-</map>
