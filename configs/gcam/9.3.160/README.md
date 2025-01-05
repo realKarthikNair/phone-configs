@@ -1,0 +1,5 @@
+- Use stock camera if you want sharper selfies, 3rd party apps including gcam ports are only able to shoot at 8 MP 
+- gcam has a larger FoV on videos, but doesn't have any sort of EIS
+- UHDR is inferior to stock camera's XHDR in most cases but then again, UHDR has a wider compatibility across platforms
+- Don't turn Google AWB off, it messes with skin tones
+- Live Photos are superior on stock camera
