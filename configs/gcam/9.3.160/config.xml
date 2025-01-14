@@ -125,7 +125,7 @@
     <string name="gawb_user_rg_e_key_3">0.584017</string>
     <string name="gawb_user_rg_e_key_2">0.584017</string>
     <string name="pref_camera_single_shot_sound_key">0</string>
-    <string name="capture_indicator_thumbnail_uri"></string>
+    <string name="capture_indicator_thumbnail_uri">content://media/external/images/media/1000046776</string>
     <string name="pref_video_fps_vb_key">FPS_30</string>
     <string name="ses_30fps_id_key_1"></string>
     <string name="perf_has_run_first_education">1</string>
@@ -140,7 +140,7 @@
     <string name="execute_finish_on_key">1</string>
     <string name="pref_hdr_tooltip_countdown">0</string>
     <string name="gawb_user_bg_i_key_1">0.59211</string>
-    <string name="lUpTi">1735705674755</string>
+    <string name="lUpTi">1736836788459</string>
     <boolean name="camera.gouda.allow_widest_front" value="true" />
     <string name="save_storage_key">0</string>
     <string name="gawb_user_bg_j_key_3">0.686416</string>
@@ -183,7 +183,7 @@
     <string name="device_hdrplus_key_2">blueline</string>
     <string name="device_hdrplus_key_1">blueline</string>
     <string name="jpg_scaling_key_1">100</string>
-    <string name="pref_camera_gawb_b_photo">1</string>
+    <string name="pref_camera_gawb_b_photo">0</string>
     <string name="jpg_scaling_key_3">100</string>
     <string name="jpg_scaling_key_2">100</string>
     <string name="slow_mo_fix_3">1</string>
@@ -274,7 +274,7 @@
     <string name="pref_camera_frames_f_photo">0</string>
     <boolean name="disable_cam_char_fix_keys" value="false" />
     <string name="c_c_i_quality_key_1">0</string>
-    <string name="perf_has_run_education">1736137687632</string>
+    <string name="perf_has_run_education">1737268955435</string>
     <string name="gawb_user_rg_m_key_3">0.478985</string>
     <string name="gawb_user_rg_m_key_2">0.478985</string>
     <string name="c_c_i_quality_key_2">0</string>
