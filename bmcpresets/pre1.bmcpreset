@@ -87,18 +87,18 @@
     "isWhiteBalanceAuto": true,
     "isWhiteBalancePresetLock": false,
     "isoValue": 484,
-    "selectedPFR": 24.0,
+    "selectedPFR": 30.0,
     "selectedLensOption": "Lens26mm",
     "selectedOfr": 60.0,
     "selectedWhiteBalancePreset": "none",
     "shutterValue": {
       "speed": {
         "_0": 33.0,
-        "_1": 24.0
+        "_1": 30.0
       }
     },
-    "temperatureValue": 3551,
-    "tintValue": 15
+    "temperatureValue": 5341,
+    "tintValue": 1
   },
   "secondaryControlsData": {
     "eftCacheOn": false,
@@ -106,7 +106,7 @@
     "falseColorEftOptionOn": false,
     "focusAssistEftOptionOn": false,
     "focusAssistValue": 85.0,
-    "focusValue": 0.11582112,
+    "focusValue": 0.0,
     "framingGuideValue": 3,
     "gridsCrossHairsOption": false,
     "gridsDotOption": false,
