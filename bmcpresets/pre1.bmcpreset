@@ -51,9 +51,9 @@
     "lockOrientation" : false,
     "lockWhiteBalOnRecord" : true,
     "lockedOrientation" : 1,
-    "lutSelection" : "Cinema Teal",
+    "lutSelection" : "",
     "mirrorFrontFacingCamera" : false,
-    "noiseReduction" : true,
+    "noiseReduction" : false,
     "nucleusIdentifier" : "None",
     "nucleusUSBChannel" : 0,
     "nucleusUSBMode" : 2,
@@ -68,13 +68,14 @@
     "remoteCamSyncRecord" : false,
     "remoteCamSyncToControllerAfterRecord" : false,
     "remoteCamType" : 0,
-    "resolutionSize" : "3280x2464",
+    "resolution" : 0,
+    "resolutionSize" : "3840x2160",
     "sampleRate" : 48000,
     "saveClipsTo" : 2,
     "saveClipsToFolderPath" : "content://com.android.externalstorage.documents/tree/primary%3ABcam",
     "saveLocationDataToClip" : true,
     "savedUploadOption" : 0,
-    "sharpening" : true,
+    "sharpening" : false,
     "shutterMeasurement" : 0,
     "swipeToDimWhileRecording" : true,
     "syncPresetsToCloudProject" : false,
@@ -89,14 +90,14 @@
   "mainControlsData" : {
     "irisValue" : 1.8,
     "isCine" : false,
-    "isOffSpeedEnabled" : false,
+    "isOffSpeedEnabled" : true,
     "isShutterLock" : false,
     "isWhiteBalanceAuto" : true,
     "isWhiteBalancePresetLock" : false,
-    "isoValue" : 3539,
+    "isoValue" : 6024,
     "selectedPFR" : 30.0,
     "selectedLensOption" : "LensAuto",
-    "selectedOFR" : 15.0,
+    "selectedOFR" : 29.0,
     "selectedWhiteBalancePreset" : "none",
     "shutterValue" : {
       "speed" : {
@@ -104,8 +105,8 @@
         "_1" : 30.0
       }
     },
-    "temperatureValue" : 7139,
-    "tintValue" : -35
+    "temperatureValue" : 7377,
+    "tintValue" : -18
   },
   "secondaryControlsData" : {
     "eftCacheOn" : false,
@@ -113,13 +114,13 @@
     "falseColorEftOptionOn" : false,
     "focusAssistEftOptionOn" : false,
     "focusAssistValue" : 85.0,
-    "focusValue" : 0.26950547,
+    "focusValue" : 0.06561976,
     "framingGuideValue" : 3,
     "gridsCrossHairsOption" : false,
     "gridsDotOption" : false,
     "gridsEftOptionOn" : false,
     "gridsLevelOption" : false,
-    "gridsThirdsOption" : false,
+    "gridsThirdsOption" : true,
     "guidesEftOptionOn" : false,
     "isExposureAuto" : true,
     "isExposureBiasMode" : true,
@@ -127,11 +128,11 @@
     "safeAreaEftOptionOn" : false,
     "safeAreaValue" : 85.0,
     "selectedStabilizationOption" : {
-      "off" : {}
+      "standard" : {}
     },
     "zebraEftMidGreyOption" : 0,
     "zebraEftOptionOn" : false,
-    "zebraValue" : 85.0,
-    "zoomFactor" : 1.0
+    "zebraValue" : 90.0,
+    "zoomFactor" : 1.03
   }
 }
