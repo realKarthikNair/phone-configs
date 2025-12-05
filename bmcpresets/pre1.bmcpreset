@@ -47,7 +47,7 @@
     "isDirty" : false,
     "isOpenGate" : false,
     "lensCorrection" : true,
-    "liveStreamService" : "Blackmagic Cloud",
+    "liveStreamService" : "Blackmagic Cloud SRT",
     "lockOrientation" : false,
     "lockWhiteBalOnRecord" : true,
     "lockedOrientation" : 1,
