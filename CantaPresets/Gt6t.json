@@ -1,0 +1,92 @@
+{
+  "name": "GT6T Bloatware",
+  "description": "",
+  "createdDate": 1771093698066,
+  "version": "1.0",
+  "apps": [
+    {
+      "packageName": "com.heytap.mcs"
+    },
+    {
+      "packageName": "com.oplus.customize.coreapp"
+    },
+    {
+      "packageName": "com.heytap.music"
+    },
+    {
+      "packageName": "com.heytap.pictorial"
+    },
+    {
+      "packageName": "com.oplus.games"
+    },
+    {
+      "packageName": "com.android.microdroid.empty_payload"
+    },
+    {
+      "packageName": "com.coloros.phonemanager"
+    },
+    {
+      "packageName": "com.google.android.apps.nbu.files"
+    },
+    {
+      "packageName": "com.heytap.market"
+    },
+    {
+      "packageName": "com.oppo.quicksearchbox"
+    },
+    {
+      "packageName": "com.google.mainline.adservices"
+    },
+    {
+      "packageName": "com.google.android.youtube"
+    },
+    {
+      "packageName": "com.coloros.securepay"
+    },
+    {
+      "packageName": "com.google.android.gms.supervision"
+    },
+    {
+      "packageName": "com.heytap.cloud"
+    },
+    {
+      "packageName": "com.redteamobile.roaming"
+    },
+    {
+      "packageName": "com.microsoft.appmanager"
+    },
+    {
+      "packageName": "com.facebook.services"
+    },
+    {
+      "packageName": "com.google.android.adservices.api"
+    },
+    {
+      "packageName": "com.oplus.metis"
+    },
+    {
+      "packageName": "com.glance.internet"
+    },
+    {
+      "packageName": "com.heytap.browser"
+    },
+    {
+      "packageName": "com.oplus.themestore"
+    },
+    {
+      "packageName": "com.wapi.wapicertmanage"
+    },
+    {
+      "packageName": "com.facebook.system"
+    },
+    {
+      "packageName": "com.facebook.appmanager"
+    },
+    {
+      "packageName": "com.coloros.video"
+    },
+    {
+      "packageName": "com.coloros.oshare"
+    }
+  ]
+}
